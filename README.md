@@ -1,4 +1,10 @@
 <!-- BEGIN_TF_DOCS -->
+
+## Nome dos integrantes (Dupla):
+
+Felipe Jonata Oliveira França 
+Breno Marques Lomasso Costa
+
 ## URL TO ACESS
 http://52.55.244.88:8080/
 
