@@ -43,3 +43,5 @@ No modules.
 
 No outputs.
 <!-- END_TF_DOCS -->
+
+![INFRA COST](https://github.com/felipefranca/ia-puc-minas-terraform/blob/master/infra-cost.png?raw=true)
