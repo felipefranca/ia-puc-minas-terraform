@@ -1,4 +1,7 @@
 <!-- BEGIN_TF_DOCS -->
+## URL TO ACESS
+http://52.55.244.88:8080/
+
 ## Requirements
 
 | Name | Version |
