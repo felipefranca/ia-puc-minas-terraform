@@ -4,6 +4,10 @@
 
 Felipe Jonata Oliveira França e Breno Marques Lomasso Costa
 
+## Site
+
+![S3](https://github.com/felipefranca/ia-puc-minas-terraform/blob/master/site.png?raw=true)
+
 ## URL TO ACESS
 http://52.55.244.88:8080/
 
@@ -52,11 +56,13 @@ No modules.
 No outputs.
 <!-- END_TF_DOCS -->
 
-## Screenshots
+## Infracost
 
 ![INFRA COST](https://github.com/felipefranca/ia-puc-minas-terraform/blob/master/infra-cost.png?raw=true)
 
-![INFRA COST](https://github.com/felipefranca/ia-puc-minas-terraform/blob/master/buckets-S3.png?raw=true)
+## Screenshots
+
+![S3](https://github.com/felipefranca/ia-puc-minas-terraform/blob/master/buckets-S3.png?raw=true)
 ![EC2](https://github.com/felipefranca/ia-puc-minas-terraform/blob/master/ec2.png?raw=true)
 ![EFS](https://github.com/felipefranca/ia-puc-minas-terraform/blob/master/efs.png?raw=true)
 ![ENVIROMENTS](https://github.com/felipefranca/ia-puc-minas-terraform/blob/master/enviroments.png?raw=true)
